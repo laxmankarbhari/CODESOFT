@@ -1,4 +1,3 @@
-
 print("     SIMPLE CALCULATOR       ")
 
 while True:
