@@ -1,6 +1,5 @@
-print("\n===========================")
+
 print("     SIMPLE CALCULATOR       ")
-print("===========================")
 
 while True:
     num1 = int(input("\nEnter First Number: "))
@@ -29,6 +28,4 @@ while True:
         print("\nExiting Calculator. Thank you!")
         break
     else:
-        print("Invalid choice! Please enter a number between 1 and 6.")
-
-    print("\n-------------------------------------------\n")
+        print("Invalid choice! Please enter a number between 1 and 6.\n")
