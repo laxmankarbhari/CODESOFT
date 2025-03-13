@@ -1,4 +1,4 @@
-print("     SIMPLE CALCULATOR       ")
+print("    SIMPLE CALCULATOR     ")
 
 while True:
     num1 = int(input("\nEnter First Number: "))
