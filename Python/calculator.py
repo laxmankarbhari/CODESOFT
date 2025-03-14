@@ -1,8 +1,8 @@
 print("    SIMPLE CALCULATOR     ")
 
 while True:
-    num1 = int(input("\nEnter First Number: "))
-    num2 = int(input("Enter Second Number: "))
+    num1 = float(input("\nEnter First Number: "))
+    num2 = float(input("Enter Second Number: "))
 
     print("\n1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n5. Modulus\n6. Exit")
     choice = int(input("Choose operation (1-6): "))
